@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Elixir, (more) Rust**
 
-- 👨‍💻 All of my projects are available in my [portfolio](mihawx.github.io)
+- 👨‍💻 All of my projects are available in my [**portfolio**](mihawx.github.io)
 
-- 💬 Ask me about **Python, Svelte, Tai lwind**
+- 💬 Ask me about **Python, Svelte, Tailwind**
 
 - 📫 How to reach me: **mihawx@outlook.com**
 
