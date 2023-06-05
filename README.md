@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mihawx
+# Hi 👋, I'm Omar Abragh
 
 ### A passionate full-stack developer from Morocco
 
